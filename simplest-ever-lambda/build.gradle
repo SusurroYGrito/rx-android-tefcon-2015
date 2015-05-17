@@ -1,4 +1,5 @@
 apply plugin: 'java'
+apply plugin: 'me.tatarka.retrolambda'
 
 dependencies {
     compile parent.ext.libRx

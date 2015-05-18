@@ -11,7 +11,6 @@ import rx.Observable;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.android.widget.WidgetObservable;
 import rx.subscriptions.CompositeSubscription;
-import susurro.grito.eventthrottling.R;
 
 public class MainActivity extends AppCompatActivity {
 

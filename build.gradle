@@ -12,6 +12,7 @@ buildscript {
 allprojects {
     ext {
         libRx = 'io.reactivex:rxjava:1.0.10'
+        libOtto = 'com.squareup:otto:1.3.7'
     }
     repositories {
         jcenter()

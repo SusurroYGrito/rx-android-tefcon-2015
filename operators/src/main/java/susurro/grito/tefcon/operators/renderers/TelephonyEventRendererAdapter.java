@@ -5,7 +5,6 @@ import com.pedrogomez.renderers.RendererAdapter;
 import android.view.LayoutInflater;
 
 import susurro.grito.tefcon.operators.Sms;
-import susurro.grito.tefcon.operators.TelephonyEvent;
 
 /**
  * @author Fernando Franco Giráldez

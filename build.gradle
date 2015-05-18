@@ -11,7 +11,10 @@ buildscript {
 
 allprojects {
     ext {
+        androidAppcompat = 'com.android.support:appcompat-v7:22.1.1'
+
         libRx = 'io.reactivex:rxjava:1.0.10'
+        libRxAndroid = 'io.reactivex:rxandroid:0.24.0'
         libOtto = 'com.squareup:otto:1.3.7'
     }
     repositories {

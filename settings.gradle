@@ -1,2 +1,2 @@
-include ':simplest-ever', ':simplest-ever-lambda', ':events-are-cluncky', ':event-throttling'
+include ':simplest-ever', ':simplest-ever-lambda', ':events-are-cluncky', ':event-throttling', ':operators'
 
